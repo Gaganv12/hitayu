@@ -5,7 +5,8 @@ function About() {
       <div className="flex flex-col md:flex-row">
         <div className="w-full md:w-1/2 mb-8 md:mb-0">
           <h2 className="text-3xl font-bold mb-4">
-            Unveiling Wholeness: Your Journey Starts at Hitaayu Ayurveda Centre
+            Unveiling Wholeness: Your Journey Starts at Hitaayu Ayurveda
+            Centrehy
           </h2>
           <p className="text-gray-700 leading-loose">
             Hitayu Ayurveda was established it in 2005, with the vision of
